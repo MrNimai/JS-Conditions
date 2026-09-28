@@ -6,7 +6,7 @@ if (money > 300) {
 
 else{
     if (money > 100) {
-        console.log("tui middle class theke ektu niche but gorib na");
+        console.log("tui middle class theke ektu niche but gorib na kintu poisha oyalao na");
     }
 
     else{
