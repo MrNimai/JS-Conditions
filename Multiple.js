@@ -7,6 +7,6 @@
  
  else{
     console.log(
-        "vaag tui mokbul"
+        "vaag tui mokbul with hokbul"
     )
  }
