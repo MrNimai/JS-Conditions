@@ -75,4 +75,4 @@ else{
 
 let finalPrice = tickitPrice - ( tickitPrice * discount / 100 )
 
-console.log("Final Price: " + finalPrice);
+console.log("Final Price:" + finalPrice);
