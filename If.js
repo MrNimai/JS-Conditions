@@ -9,7 +9,7 @@ if (friedRice <
 }
 
 else{
-    console.log("I'll Not Eat It")
+    console.log("I'll Not Eat your vaaaaat")
 }
 
 
